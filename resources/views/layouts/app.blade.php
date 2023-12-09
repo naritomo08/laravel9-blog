@@ -27,7 +27,7 @@
         </main>
     
         <footer id="footer">
-            <small>&copy; 2022 DaiNaka</small>
+            <small>&copy; 2023 Naritomo</small>
         </footer>
     </div>
 </body>
